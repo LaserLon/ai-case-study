@@ -10,9 +10,9 @@ Found in [Repo for Module 1 Challenge](https://github.com/LaserLon/ai-case-study
 
 ## Overview and Origin
 
-### Tabnine
+### Overview 
 
-Tabnine is a company focused on *AI-powered code completion*.
+TabNine is a company focused on *AI-powered code completion*.
 
 ### Origins
 
@@ -20,23 +20,23 @@ Codota was established in 2013 by Dror Weiss and Professor Eran Yahav in Tel Avi
 
 ## References
 
-- [Tabnine Wikipedia Page](https://en.wikipedia.org/wiki/Tabnine)
+- [TabNine Wikipedia Page](https://en.wikipedia.org/wiki/Tabnine)
 - [Israeli startup Codota buys Canada's Tabnine](https://en.globes.co.il/en/article-israeli-startup-codota-buys-canadas-tabnine-1001311136)
-- [About Tabnine](https://www.tabnine.com/about/)
+- [About TabNine](https://www.tabnine.com/about/)
 - [Codota raises funds for AI-driven software development](http://startupsmagazine.co.uk/article-codota-raises-funds-ai-driven-software-development)
 - [Codota picks up $12M for an AI platform that auto-completes developers' code](https://techcrunch.com/2020/04/27/codota-picks-up-12m-for-an-ai-platform-that-auto-completes-developers-code/)
-- [Tabnine raises $15.5M for AI that autocompletes code](https://techcrunch.com/2022/06/15/tabnine-raises-15-5m-for-ai-that-autocompletes-code/)
-- [Code-generating AI platform Tabnine nabs $25M investment](https://techcrunch.com/2023/11/08/code-generating-ai-platform-tabnine-nabs-25m-investment/)
-- [Tabnine blog post on Series B funding](https://www.tabnine.com/blog/tabnine-series-b/)
-- [Tabnine secures $25 Million Series B for generative AI for coding](https://www.startuphub.ai/tabnine-secures-25-million-series-b-for-generative-ai-for-coding/)
+- [TabNine raises $15.5M for AI that autocompletes code](https://techcrunch.com/2022/06/15/tabnine-raises-15-5m-for-ai-that-autocompletes-code/)
+- [Code-generating AI platform TabNine nabs $25M investment](https://techcrunch.com/2023/11/08/code-generating-ai-platform-tabnine-nabs-25m-investment/)
+- [TabNine blog post on Series B funding](https://www.tabnine.com/blog/tabnine-series-b/)
+- [TabNine secures $25 Million Series B for generative AI for coding](https://www.startuphub.ai/tabnine-secures-25-million-series-b-for-generative-ai-for-coding/)
 
 
 
 ## Objective
-Tabnine was created to enhance developer productivity through tools that leverage semantic AI. It aims to understand not only the syntax of the programming language but also the intent and functionality behind the code being written.
+TabNine was created to enhance developer productivity through tools that leverage semantic AI. It aims to understand not only the syntax of the programming language but also the intent and functionality behind the code being written.
 
 ## Funding
-- **June 2017**: Tabnine secured $2 million in a seed investment. [More details](http://startupsmagazine.co.uk/article-codota-raises-funds-ai-driven-software-development)
+- **June 2017**: TabNine secured $2 million in a seed investment. [More details](http://startupsmagazine.co.uk/article-codota-raises-funds-ai-driven-software-development)
 - **April 2020**: TabNine raised an additional $12 million in funding. [TechCrunch Article](https://techcrunch.com/2020/04/27/codota-picks-up-12m-for-an-ai-platform-that-auto-completes-developers-code/)
 - **April 2022**: TabNine raised $15.5 million in funding. [TechCrunch Article](https://techcrunch.com/2022/06/15/tabnine-raises-15-5m-for-ai-that-autocompletes-code/)
 - **November 2023**: TabNine secured an additional $25 million in funding to expand the company's operations. [TechCrunch Article](https://techcrunch.com/2023/11/08/code-generating-ai-platform-tabnine-nabs-25m-investment/), [Tabnine Blog](https://www.tabnine.com/blog/tabnine-series-b/)
@@ -77,7 +77,7 @@ Deep learning models like transformers have been a game changer for code complet
 
 ### Competition
 
-Tabnine has several competitors that have similar products. Here are a few to consider: 
+TabNine has several competitors that have similar products. Here are a few to consider: 
 1. [Pieces for Developers](https://code.pieces.app/)
 2. [Otter.ai](https://otter.ai/)
 3. [OpenAI Codex](https://openai.com/index/openai-codex/)
