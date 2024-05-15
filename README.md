@@ -10,10 +10,12 @@ Found in [Repo for Module 1 Challenge](https://github.com/LaserLon/ai-case-study
 
 ## Overview and Origin
 
-* Tabnine
+### Tabnine
+
 Tabnine is a company focused on *AI-powered code completion*.
 
-* Origins
+### Origins
+
 Codota was established in 2013 by Dror Weiss and Professor Eran Yahav in Tel Aviv, Israel. TabNine was founded by Jacob Jackson in 2015. Codota acquired TabNine in late 2019 and rebranded as TabNine in 2021. This aquisition significantly increased the company's AI capabilities as well as expand market reach and user base.
 
 ## References
