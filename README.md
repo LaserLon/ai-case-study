@@ -112,5 +112,4 @@ Another innovative idea would be to have code assistant for applications like ex
 These enhancements would not require additional technologies to develop. I believe they could use the same LLMs that power the currently provided services. 
 
 ### Closing
->
-This was a great first challenge. I felt compelled to let you know this within a block quote :)
+>This was a great first challenge. I felt compelled to let you know this within a block quote :)
